@@ -1,0 +1,11 @@
+{
+  "name": "move-pane",
+  "main": "./lib/move-pane",
+  "version": "0.1.0",
+  "description": "Overrides the default behavior of 'Splitting' in Atom editor.",
+  "repository": "",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
