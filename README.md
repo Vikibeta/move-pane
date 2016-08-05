@@ -1,7 +1,7 @@
 # move-pane package
 
 move-pane package overrides the default behavior of pane splitting in Atom editor.
-If current pane has two or more tabs, it splits it to a new pane and closes the current tab.
+If current pane has two or more tabs, it splits the current tab to a new pane and closes the current tab.
 
 
 ## Keybindings
