@@ -24,7 +24,8 @@ module.exports =
       'copyActiveItem': true
 
     if currentPane.getItems().length < 2
-      @notify '[move-pane] Moving pane is available only when there are more than 2 tabs in the current pane.'
+      # @notify '[move-pane] Moving pane is available only when there are more than 2 tabs in the current pane.'
+      return
 
     switch direction
       when 'right' then currentPane.splitRight( params )
