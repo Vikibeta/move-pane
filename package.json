@@ -2,8 +2,8 @@
   "name": "move-pane",
   "main": "./lib/move-pane",
   "version": "0.0.0",
-  "description": "Overrides the default behavior of 'Splitting' in Atom editor.",
-  "repository": "",
+  "description": "A simple package for the Atom editor",
+  "repository": "https://github.com/msshnt/move-pane",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
